@@ -4,3 +4,7 @@ android/
 ios/
 web-build/
 dist/
+.cache/
+.local/
+.git/
+attached_assets/
